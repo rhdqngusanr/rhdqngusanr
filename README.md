@@ -14,7 +14,7 @@
 <br/>
 
 ## 😜 My Name is Muk
-- 💻 저는 코틀린으로 개발을 시작한 2년차 개발자입니다 (since 20.06~)
+- 💻 저는 코틀린으로 개발을 시작한 2년차 개발자입니다 (since 2020.06~)
 - 🔭 저는 IOT 회사에서 여러가지 일을 했습니다.
 - 🌻 회사에서 많은 과제를 하면서 느낀점은 **"코딩으로 안되는건 없다"** 입니다. 
 
@@ -50,8 +50,11 @@
 
 ## 👨‍🏫Experience
 
-- **RDS ADMIN 앱 제작**
-  - [다운로드 링크](naver.com, "구글 플레이 스토어")
+- **RDS ADMIN 앱 제작 (2020.06)** 
+
+  - [다운로드 링크](https://play.google.com/store/apps/details?id=kr.ftlab.radoneye_qube_admin, "구글 플레이 스토어") <br/>
+  처음으로 만든 Android app으로 Android BLE(블루투스 통신), Retrofit api 통신, MpAndroidChat , SAF등을<br/> 사용하여 만든 MVC 패턴으로 만들어진 앱입니다. 
+  
 - 
 - 
 - 
