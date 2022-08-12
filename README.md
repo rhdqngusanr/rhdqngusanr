@@ -83,11 +83,11 @@
 - **2022.08~**
   - OpenCV로 회사프로젝트중이며 퇴근후에는 구글 스토어 배포목적 서비스 app 서브프로젝트 중에있습니다.
 
-(회사 프로젝트 코드들은 깃허브에 공유를 하지않으며 개인프로젝트들만 공유)
+
+***
+
+✨ (회사 프로젝트 코드들은 깃허브에 공유를 하지않으며 개인프로젝트들만 공유) ✨
   
 
-rhdqngusanr/rhdqngusanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 </div>
