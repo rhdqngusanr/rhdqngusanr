@@ -60,7 +60,7 @@
   
   
 - **COVID-19 자가격리 홈 시스템 SUVM 앱 제작 (2020.09)** 
-  - [SUVM 다운로드 링크](https://drive.google.com/file/d/1mCC4bV9szDAeLAlDfHprpTCYQMe3Hg90/view?usp=sharing)
+  - [SUVM 다운로드 링크](https://drive.google.com/file/d/1mCC4bV9szDAeLAlDfHprpTCYQMe3Hg90/view?usp=sharing) (구글스토어 배포X)
   - 코로나-19가 심각할때 회사에서 시작한 프로젝트로 자가격리장비와 BLE 통신을 하고 데이터를 보내는 앱으로<br/>Android BLE, Retrofit api, 정부 공공 api, MpAndroid등을 사용하여 만든 MVC 패턴 앱입니다.
 
 - **한국기초과학지원연구원 온도 측정 시스템 제작(2021.01)**
