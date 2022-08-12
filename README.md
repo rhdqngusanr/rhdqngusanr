@@ -54,7 +54,7 @@
   - <p>
   
        [RDS ADMIN 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ftlab.radoneye_qube_admin),
-       [RDS 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ftlab.radoneye_qube) (미리보기 이미지가 업데이트가 안되어있습니다)
+       [RDS 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ftlab.radoneye_qube) (미리보기 이미지 업데이트X)
     </p>
   - 처음으로 만든 Android 앱으로 Android BLE, Retrofit api 통신, MpAndroidChat , SAF등을<br/> 사용하여 만든 장비와 같이 사용하는 MVC 패턴 앱입니다. 
   
@@ -67,7 +67,7 @@
   - 회사의 하드웨어 장비, 우분투 리눅스와 Node.js , 자바스크립트를 사용하여<br>서버 내부망을 통해 온도를 측정하는 IOT 시스템을 만들었습니다. 
    
 - **라돈 전문가용 RDS ADMIN, RDS 앱 리디자인 (2021.05)**
-  - 앱의 디자인을 구글 디자인 가이드 Material Design 를 통해 UI/UX를 다시 디자인했습니다.<br/>(미리보기 이미지가 업데이트가 안되어있습니다)
+  - 앱의 디자인을 구글 디자인 가이드 Material Design 를 통해 UI/UX를 다시 디자인했습니다.<br/>(미리보기 이미지 업데이트X)
 
 - **라돈 전문가용 EcoTracker 앱 제작(2021.08)**
   - [EcoTracker 다운로드 링크](https://play.google.com/store/apps/details?id=io.ecosense.ecotracker)
@@ -77,7 +77,14 @@
   - [RadonEye CUBE 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ahn.ftlab_rds)
   - 기존코드를 재사용하여 흐름,구조를 바꿔 Android BLE, Retrofit api 통신, MpAndroidChat , SAF등을 <br>사용하여 만든 장비와 같이 사용하는 MVC 패턴 앱입니다.
 
-<!---![Uploading dotnet.svg…]()
+- **VM ,NginX ,Node.js & Loadbalance 서버 제작 (2022.07)**
+  - asp.net 업데이트 이슈로 인한 기존 회사장비들이 서버에 업로드가 되지않아 VM,NginX,Node.js로 GateWay,<br> Azure LoadBalance 서버를 만들어 이슈 해결과 서버 기능 업데이트를 하였습니다.
+
+- **2022.08~**
+  - OpenCV로 회사프로젝트중이며 퇴근후에는 구글 스토어 배포목적 서비스 app 서브프로젝트 중에있습니다.
+
+(회사 프로젝트 코드들은 깃허브에 공유를 하지않으며 개인프로젝트들만 공유)
+  
 
 rhdqngusanr/rhdqngusanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
