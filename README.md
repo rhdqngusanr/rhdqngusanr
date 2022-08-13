@@ -13,7 +13,7 @@
 
 <br/>
 
-## 😜 My Name is Muk
+## 🙋‍♂️ My Name is Muk
 - 💻 저는 코틀린으로 개발을 시작한 2년차 개발자입니다 (since 2020.06~)
 - 🔭 저는 IOT 회사에서 여러가지 일을 했습니다.
 - 🌻 회사에서 많은 과제를 하면서 느낀점은 **"코딩으로 안되는건 없다"** 입니다. 
@@ -71,7 +71,7 @@
 
 - **라돈 전문가용 EcoTracker 앱 제작(2021.08)**
   - [EcoTracker 다운로드 링크](https://play.google.com/store/apps/details?id=io.ecosense.ecotracker)
-  - Andriod BLE Address를 재가공하여 BLE스캔만으로 측정이 가능한 앱으로 Android BLE, Retrofit api 통신<br>, MpAndroidChat , SAF등을사용하여 만든 장비와 같이 사용하는 MVP 패턴 앱입니다. 
+  - Andriod BLE Address를 재가공하여 BLE스캔만으로 측정이 가능한 앱으로 Android BLE, Retrofit api 통신<br>, MpAndroidChat , SAF등을사용하여 만든 장비와 같이 사용하는 MVP 패턴 으로 만들었습니다. 
 
 - **라돈 소비자용 RadonEye CUBE 앱 제작(2022.02)**
   - [RadonEye CUBE 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ahn.ftlab_rds)
