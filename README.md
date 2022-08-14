@@ -50,7 +50,7 @@
 
 ## 👨‍🏫Experience
 
-- **라돈 전문가용 RDS ADMIN, RDS 앱 제작 (2020.06)** 
+- **라돈 측정 전문가용 RDS ADMIN, RDS 앱 제작 (2020.06)** 
   - <p>
   
        [RDS ADMIN 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ftlab.radoneye_qube_admin),
@@ -66,14 +66,14 @@
 - **한국기초과학지원연구원 특정 연구실 온도 측정 시스템 제작(2021.01)**
   - 회사의 하드웨어 장비, 우분투 리눅스와 Node.js , 자바스크립트를 사용하여<br>서버 내부망을 통해 온도를 측정하는 IOT 시스템을 만들었습니다. 
    
-- **라돈 전문가용 RDS ADMIN, RDS 앱 리디자인 (2021.05)**
+- **라돈 측정 전문가용 RDS ADMIN, RDS 앱 리디자인 (2021.05)**
   - 앱의 디자인을 구글 디자인 가이드 Material Design 를 통해 UI/UX를 다시 디자인했습니다.<br/>(미리보기 이미지 업데이트X)
 
-- **라돈 전문가용 EcoTracker 앱 제작(2021.08)**
+- **라돈 측정 전문가용 EcoTracker 앱 제작(2021.08)**
   - [EcoTracker 다운로드 링크](https://play.google.com/store/apps/details?id=io.ecosense.ecotracker)
   - Andriod BLE Address를 재가공하여 BLE스캔만으로 측정이 가능한 앱으로 Android BLE, Retrofit api 통신<br>, MpAndroidChat , SAF등을사용하여 만든 장비와 같이 사용하는 MVP 패턴 으로 만들었습니다. 
 
-- **라돈 소비자용 RadonEye CUBE 앱 제작(2022.02)**
+- **라돈 측정 소비자용 RadonEye CUBE 앱 제작(2022.02)**
   - [RadonEye CUBE 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ahn.ftlab_rds)
   - 기존코드를 재사용하여 흐름,구조를 바꿔 Android BLE, Retrofit api 통신, MpAndroidChat , SAF등을 <br>사용하여 만든 장비와 같이 사용하는 MVC 패턴 앱입니다.
 
