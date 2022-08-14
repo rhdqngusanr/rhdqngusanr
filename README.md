@@ -63,7 +63,7 @@
   - [SUVM 다운로드 링크](https://drive.google.com/file/d/1mCC4bV9szDAeLAlDfHprpTCYQMe3Hg90/view?usp=sharing) (구글스토어X)
   - 코로나-19가 심각할때 회사에서 시작한 프로젝트로 자가격리장비와 BLE 통신을 하고 데이터를 보내는 앱으로<br/>Android BLE, Retrofit api, 정부 공공 api, MpAndroid등을 사용하여 만든 MVC 패턴 앱입니다.
 
-- **한국기초과학지원연구원 온도 측정 시스템 제작(2021.01)**
+- **한국기초과학지원연구원 특정 연구실 온도 측정 시스템 제작(2021.01)**
   - 회사의 하드웨어 장비, 우분투 리눅스와 Node.js , 자바스크립트를 사용하여<br>서버 내부망을 통해 온도를 측정하는 IOT 시스템을 만들었습니다. 
    
 - **라돈 전문가용 RDS ADMIN, RDS 앱 리디자인 (2021.05)**
