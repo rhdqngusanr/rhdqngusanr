@@ -67,7 +67,7 @@
   - 회사의 하드웨어 장비, 우분투 리눅스와 Node.js , 자바스크립트를 사용하여<br>서버 내부망을 통해 온도를 측정하는 IOT 시스템을 만들었습니다. 
    
 - **라돈 측정 전문가용 RDS ADMIN, RDS 앱 리디자인 (2021.05)**
-  - 앱의 디자인을 구글 디자인 가이드 Material Design 를 통해 UI/UX를 다시 디자인했습니다.<br/>(미리보기 이미지 업데이트X)
+  - 앱의 디자인을 구글 디자인 가이드 Material Design 를 통해 UI/UX를 다시 디자인했습니다.<br/>(플레이스토어 미리보기 이미지 업데이트X)
 
 - **라돈 측정 전문가용 EcoTracker 앱 제작(2021.08)**
   - [EcoTracker 다운로드 링크](https://play.google.com/store/apps/details?id=io.ecosense.ecotracker)
