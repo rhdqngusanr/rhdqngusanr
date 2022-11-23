@@ -87,7 +87,7 @@
 
 - **2022.11~**
   - OpenCV, ROS 기반으로 회사프로젝트중이며 퇴근후에는 구글 스토어 배포목적 서비스 app 서브프로젝트를 팀과 하고있습니다.
-  - [진행중인 개인프로젝트 링크 ->](https://github.com/rhdqngusanr/book_stack_android)
+  - [진행중인 서브 프로젝트 링크](https://github.com/rhdqngusanr/book_stack_android)
 
 - **else**
   - 제가 처음부터 만들진 않았지만 회사가 운영하는 앱 FRD500 , RadonEye 등을 구글 정책 변경으로 인한 
