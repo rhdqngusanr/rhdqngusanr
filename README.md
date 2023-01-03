@@ -85,7 +85,10 @@
   - OpenCV와 C# , Microsoft Machine Learning 을 사용하여 장비의 흑점과 오염도를 측정하는 
 비전검사 전이학습 프로그램을 만들었습니다.
 
-![image](https://user-images.githubusercontent.com/59686942/210387342-03169c3d-5a9d-4284-b5c1-517208be9efe.png)
+![image](https://user-images.githubusercontent.com/59686942/210389397-0b80d851-ccc1-4795-8620-e24ac83c2779.png)
+(오류 발견지점에 빨간 테두리 생성)
+
+
 
 
 - **2022.11~**
