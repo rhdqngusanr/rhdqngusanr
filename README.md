@@ -93,8 +93,7 @@
   - [진행중인 서브 프로젝트 링크](https://github.com/rhdqngusanr/book_stack_android)
 
 - **else**
-  - 제가 처음부터 만들진 않았지만 회사가 운영하는 앱 FRD500 , RadonEye 등을 구글 정책 변경으로 인한 
-업데이트와 유지보수를 하고있습니다.
+  - 제가 처음부터 만들진 않았지만 위의 앱과 별개인 FRD500 , RadonEye 등 많은 앱들을 업데이트와 유지보수를 하는 일을 했습니다.
   
   
 ***
