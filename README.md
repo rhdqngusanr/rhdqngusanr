@@ -85,6 +85,9 @@
   - OpenCV와 C# , Microsoft Machine Learning 을 사용하여 장비의 흑점과 오염도를 측정하는 
 비전검사 전이학습 프로그램을 만들었습니다.
 
+![image](https://user-images.githubusercontent.com/59686942/210387342-03169c3d-5a9d-4284-b5c1-517208be9efe.png)
+
+
 - **2022.11~**
   - OpenCV, ROS 기반으로 회사프로젝트중이며 퇴근후에는 구글 스토어 배포목적 서비스 app 서브프로젝트를 팀과 하고있습니다.
   - [진행중인 서브 프로젝트 링크](https://github.com/rhdqngusanr/book_stack_android)
