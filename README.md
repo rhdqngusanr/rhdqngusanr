@@ -19,10 +19,6 @@
 - 🌻 회사에서 많은 과제를 하면서 느낀점은 **"코딩으로 안되는건 없다"** 입니다. 
 
 
-
-**Main Skill** 들은 제가 주로 학습하고 큰 노력을 투자했지만
-**Sub Skill** 들은 회사 과제를 위해 그때그때 필요로 공부하고 사용하였습니다.
-
 ## 🖥Developer
 
 #### # main skill
@@ -54,6 +50,12 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=black">
   
 </p>
+
+
+
+**Main Skill** 들은 제가 주로 학습하고 큰 노력을 투자했지만
+
+**Sub Skill** 들은 회사 과제를 위해 그때그때 필요로 공부하고 사용하였습니다.
 
 
 ## 👨‍🏫Experience
