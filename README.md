@@ -87,8 +87,8 @@
   - [RadonEye CUBE 다운로드 링크](https://play.google.com/store/apps/details?id=kr.ahn.ftlab_rds)
   - 기존코드를 재사용하여 흐름,구조를 바꿔 Android BLE, Retrofit api 통신, MpAndroidChat , SAF등을 <br>사용하여 만든 장비와 같이 사용하는 MVC 패턴 앱입니다.
 
-- **VM ,NginX ,Node.js, .Net & Loadbalance 서버, GateWay 제작 (2022.07)**
-  - asp.net 업데이트 이슈로 인한 기존 회사장비들이 서버에 업로드가 되지않아 VM,NginX,Node.js로 GateWay,<br> Azure LoadBalance 서버를 만들어 이슈 해결과 서버 기능 업데이트를 하였습니다.
+- **Backend : VM ,NginX ,Node.js, .Net & Loadbalance 서버, GateWay 제작 (2022.07)**
+  - asp.net 업데이트 이슈로 인한 기존 회사장비들이 서버에 업로드가 되지않아 VM,NginX,Node.js로 GateWay,<br> Azure LoadBalance 서버를 만들어 이슈 해결과 서버 기능 업데이트를 하였습니다. 서버 기능에 따른 앱의 Restful Api도 최신화 하였습니다.
 
 
 - **비전검사기 프로그램 제작 (2022.11)**
